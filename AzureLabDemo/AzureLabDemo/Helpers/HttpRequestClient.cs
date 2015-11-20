@@ -1,4 +1,4 @@
-﻿using ISEP_AzureLabDemo.Models;
+﻿using AzureLabDemo.Models;
 using Newtonsoft.Json;
 using RestSharp;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ISEP_AzureLabDemo.Helpers
+namespace AzureLabDemo.Helpers
 {
 
     public class HttpRequestClient

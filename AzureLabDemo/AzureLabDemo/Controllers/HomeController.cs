@@ -1,11 +1,11 @@
-﻿using ISEP_AzureLabDemo.Helpers;
+﻿using AzureLabDemo.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ISEP_AzureLabDemo.Controllers
+namespace AzureLabDemo.Controllers
 {
     public class HomeController : Controller
     {

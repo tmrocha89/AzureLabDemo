@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ISEP_AzureLabDemo.Models
+namespace AzureLabDemo.Models
 {
     public class Team
     {

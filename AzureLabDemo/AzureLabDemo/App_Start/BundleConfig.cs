@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ISEP_AzureLabDemo
+namespace AzureLabDemo
 {
     public class BundleConfig
     {
